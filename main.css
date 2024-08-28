@@ -1,0 +1,33 @@
+
+.navbar{
+    background-color: #212227;
+}
+#cabecalho .nav {
+    background-color: #212227;
+    color: #fff;
+}
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover
+{
+    color: #fff;
+}
+
+
+#btn-menu,
+#btn-form{
+    background-color: #212227;
+    color: #fff;
+   
+  
+    
+}
+
+
+ @media (max-width:767px){
+    .carousel-item img{
+        height: 280px;
+    }
+
+ }
+
